@@ -14,7 +14,8 @@ Also install [ffmpeg](https://ffmpeg.org/) for merging video/audio streams.
 
 ## Notebooks
 
-- [`download_youtube.ipynb`](download_youtube.ipynb) — download a YouTube video with `yt-dlp`
+- [`download_youtube.ipynb`](download_youtube.ipynb) — download a YouTube video with `yt-dlp`  
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/celluloid-camp/workshop/main?labpath=download_youtube.ipynb)
 
 ```bash
 jupyter notebook download_youtube.ipynb
